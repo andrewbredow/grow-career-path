@@ -20,4 +20,22 @@ Grow Seeks to be:
 - Andrew Bredow ([@andrewbredow](https://github.com/andrewbredow))
 - Steve Richert ([@laserlemon](https://github.com/laserlemon))
 
+## Design
+
+TODO: What were our basic design considerations
+TODO: What do the columns mean
+TODO: Add in corny littly drawings and descriptions
+TODO: What do levels mean
+TODO: How do levels get "unlocked"
+TODO: Why did we use survey questions
+
 ## How to use it
+
+TODO: Explain how survey questions relate to statements on the grid
+TODO: Explain how the results are calculated
+
+## Using the results
+
+TODO: Tips for personal assessment
+TODO: Tips for team/organization use
+TODO: Grow action items (we should have some that we can share)
